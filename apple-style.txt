@@ -1,4 +1,4 @@
-Apple site style RGB
+Apple site style RGB / HEX
 
 Background 255,255,255 / #FFFFFF
 
